@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jvmgo/ch02/classpath"
+	"github.com/jvmgo/ch03/classpath"
 	"strings"
 )
 
